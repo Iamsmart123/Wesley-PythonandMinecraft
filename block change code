@@ -1,0 +1,4 @@
+from mcpi.minecraft imoort Minecraft as mcs
+mc = mcs.create()
+
+

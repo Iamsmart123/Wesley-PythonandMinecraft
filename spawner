@@ -1,0 +1,8 @@
+from mcpi.minecraft import Minecraft as mcs
+mc = mcs.create()
+x,y,z=mc.player.getTilePos()
+number=1
+for i in range():
+    mc.spawnEntity(x,y,z,60)
+    
+
